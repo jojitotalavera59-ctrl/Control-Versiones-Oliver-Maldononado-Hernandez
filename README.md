@@ -5,6 +5,6 @@
 
  Tachi
  Capi
- Faraon
+ Erick- ya quedo
  Mojarra
  
