@@ -4,7 +4,7 @@
  cada integrante debe poder actualizar archivos sin perder versiones arteriores
 
  Tachi .
- Capi
+ Capi soy tala
  Erick- ya quedo
  Mojarra
  
